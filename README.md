@@ -1,11 +1,16 @@
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://telegra.ph/file/ce038342b49656b7cef44.jpg">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Captain+jack+sparrow's+Profile."
-            alt="Typing SVG"
-        />
-    </a>
+<div align="center">
+
+# Hi welcome to My profile👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=FF0000&lines=Welcome+to+Captain+jack+sparrow's;profile)](https://git.io/typing-svg)
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/Captainjacksparrow0433/count.svg)
+
+     
+
+![My card name](https://cardivo.vercel.app/api?name=Captain-jack&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/cb9d9b5a16bc6c04dd2ba.jpg/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecffffff&instagram=kl_04_solo_boy&github=Captainjacksparrow0433&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
+       
+   
 </p>
 <div align="center">
   <p align="center">
@@ -26,8 +31,13 @@ Project created by <a href="https://github.com/Captainjacksparrow0433">Devil</a>
     <br> 
 </p>
 
+-----
+## Movie and series Group🔗👇
 
-----
+  <a href="https://t.me/filmboxcommunity"><img src="https://img.shields.io/badge/Telegram-Click%20here%20to%20join-blue.svg?logo=telegram"></a>
+
+-----
+
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Captainjacksparrow0433&show_icons=true&theme=dark&locale=en&layout=compact" alt="Captainjacksparrow0433" /></p>
 
